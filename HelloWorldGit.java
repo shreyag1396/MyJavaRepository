@@ -1,6 +1,6 @@
 class HelloWorld{
 
-	void displayDate(){
+	static void displayDate(){
 	
 	System.out.println("display todays date")
 	
@@ -10,9 +10,9 @@ class HelloWorld{
 
 	System.out.println("hello world...welcome to Git");
 
-	Helloworld obj = new HelloWorld;
-	obj.displayDate();
 	
+	displaydate();
+
 	}
 
 }
