@@ -1,14 +1,14 @@
-fdfvrclass HelloWorld{
+class HelloWorld{
 
-	void mymethod(){
+	void displayDate(){
 	
-	fvggSysout("display todays date")
+	Sysout("display todays date")
 	
 }
 
 	public static void main(String[] args){
 
-	bgrtSystem.out.println("hello world...welcome to Git");
+	System.out.println("hello world...welcome to Git");
 
 	}
 
